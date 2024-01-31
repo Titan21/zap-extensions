@@ -8,4 +8,4 @@ trustAsHtml
 $sce.trustAsHtml
 $eval
 $evalAsync
-eval
+\Weval
